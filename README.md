@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hello there
+
+I'm Joshua Powell, a designer, and technologist. I love tinkering with electronics, IoT projects, and edge AI/ML. Some of my tinkerings have even turned into products.
+
+I have ten years of experience building and leading teams responsible for the architecture, design, and engineering of software and distributed systems.
+
+I was most recently a User Experience Manager for Honeywell Robotics. Our work focused on designing for industrial AI, robotics, and voice products. I served as Director of a digital creative studio for six years and before that Director of a small digital consultancy.
 
 <!--
 **joshuapowell/joshuapowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
