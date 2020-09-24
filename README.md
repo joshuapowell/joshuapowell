@@ -1,4 +1,4 @@
-### 👋 Hello there
+### 👋  Hello there
 
 I'm Joshua Powell, a designer, and technologist. I love tinkering with electronics, IoT projects, and edge AI/ML. Some of my tinkerings have even turned into products.
 
