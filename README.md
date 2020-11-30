@@ -1,6 +1,6 @@
 ### 👋  Hello there
 
-I’m Joshua Powell, a designer and engineer. I love designing and building tools that help engineers and operators get more done at work.
+I’m Joshua Powell, a designer and engineer. I love improving the developer experience by creating tools that help engineers and operators get more done at work.
 
 I have fifteen years of experience building and leading teams responsible for the architecture, design, and engineering of software and distributed systems that help organizations work together.
 
