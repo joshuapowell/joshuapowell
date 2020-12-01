@@ -1,8 +1,8 @@
 # 👋  Hello there
 
-I’m a designer and engineer. I love creating tools that help engineers, developers, and IT folks get more done at work.
+I’m a designer and engineer. I love creating tools that help developers and IT folks get more done at work.
 
-I have fifteen years of experience building and leading teams responsible for the architecture, design, and engineering of software and distributed systems that help organizations work together.
+I have fifteen years of experience building and leading teams responsible for the architecture, design, and engineering of software and systems that help organizations work together.
 
 I am currently at Broadcom, where I’m a product designer working on various enterprise developer tools. Previously, I was a Design Manager at Honeywell Robotics. Our work focused on designing for industrial AI, robotics, and voice products. I served as Director of a digital creative studio for six years and before that Director of a small digital consultancy.
 
