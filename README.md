@@ -1,6 +1,6 @@
 # 👋  Hello there
 
-I’m a designer and engineer. I love creating tools that help developers and IT folks get more done at work.
+# I'm a designer and engineer who loves to create remarkable experiences for enterprise developers.
 
 I have fifteen years of experience building and leading teams responsible for the architecture, design, and engineering of software and systems that help organizations work together.
 
